@@ -35,12 +35,21 @@ $ yarn dev
 
 ------
 
-## 2.2 주요 라이브러리
+## 2.2 사용한 기술스택
 
+* Next.js 12
+* React 17
+* Typescript
+* Emotion
+* Recoil
+* ant design
+* lodash
+* axios
+* react-hook-form
+* yup
 * react-daum-postcode : 다음주소 검색
 * react-quill : 상품 입력
 * react-infinite-scroller
-* recoil : 전역상태 관리
 * slick-carousel
 * 아임포트 : 결제
 
